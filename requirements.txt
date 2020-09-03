@@ -1,0 +1,7 @@
+# Main dependencies
+pyfakewebcam==0.1.0
+opencv-python==4.4.0.42
+numpy==1.19.1
+
+# Dev dependencies
+ptpython==3.0.5
