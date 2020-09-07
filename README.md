@@ -1,4 +1,4 @@
-# Zoom-er
+# Zoomer
 
 #### Currently in PRE-ALPHA status, but will be rapidly developed!
 
